@@ -66,3 +66,5 @@ This project leverages the following tools and technologies:
 
 ## 🌐 Frontend / Deployment
 Streamlit — Lightweight web framework to deploy and interact with the model
+
+Colab Notebook Link - https://colab.research.google.com/drive/1_QPebOTlxmyOnxTtja22dxb8ZhMjraEt?usp=sharing 
