@@ -51,7 +51,7 @@ Images collected from eBird Media
 - Images are distributed into training and testing folders, organized by class
 - Excellent dataset for transfer learning and fine-tuning deep learning models
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 This project leverages the following tools and technologies:
 
 ## 📦 Backend / Model Development
