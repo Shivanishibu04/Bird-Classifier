@@ -24,7 +24,7 @@ A deep learning-powered web app that classifies bird species from images using a
 ## 🚀 How to Run Locally
 
 ### 1. Clone this repository
-git clone https://github.com/your-username/Bird-Classifier.git
+git clone https://github.com/Shivanishibu04/Bird-Classifier.git
 cd Bird-Classifier
 
 ### 2. Set up virtual environment (Windows)
