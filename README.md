@@ -2,7 +2,7 @@
 
 ![App Preview](preview.png)
 
-A deep learning-powered web app that classifies bird species from images using a fine-tuned MobileNet model. Built with TensorFlow and deployed using Streamlit.
+A deep learning-powered web app that classifies 25 Indian bird species from images using a fine-tuned MobileNet model. Built with TensorFlow and deployed using Streamlit.
 
 ---
 
